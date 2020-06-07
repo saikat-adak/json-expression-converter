@@ -1,0 +1,22 @@
+out
+server
+node_modules
+*.vsix
+.DS_Store
+.vscode-test
+.gradle
+undefined
+target
+dist
+bin/
+.settings
+.classpath
+.project
+**/build/
+!src/**/build/
+# Ignore Gradle GUI config
+gradle-app.setting
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+# Cache of project
+.gradletasknamecache
