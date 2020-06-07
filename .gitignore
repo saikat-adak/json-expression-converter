@@ -12,6 +12,7 @@ bin/
 .settings
 .classpath
 .project
+build/
 **/build/
 !src/**/build/
 # Ignore Gradle GUI config
